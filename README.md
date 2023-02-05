@@ -33,7 +33,8 @@ Based on the below screenshots of each t.test for each individual lot and all lo
 ![image](https://user-images.githubusercontent.com/109490755/216797424-5e910079-a793-4fac-a50b-0002f9de711a.png)
 
 ## Study Design: MechaCar vs Competition
-- What Metric(s) to test
-- What is the null hypothesis or alternative hypothesis
-- Statistical Test would you use to test the hypothesis & why
-- Data needed to run the statistical Test
+In a study to compare MechaCar vs Competition testing city and highway fuel efficiency, maintenance cost, size of vehicle and drive train system would be great metrics to test.  In this test there would be multiple hyposthsis to test.  The primary alternative hypothesis would be MechaCar city and highway fuel efficiency is better than the competitors.  Another alternative hypothesis is maintenance costs higher/lower based on the size and drive train of the vehicles.
+
+We would need to use a mix of statistical tests.  When we compare fuel efficiencies we would use two, two sample tests.  The first would test city fuel efficiency and the second test would analyze highway fuel efficiency. This would allow us to see if the MechaCar has better fuel efficiency in one specific area or both.  
+For the second hypothesis to test maintenance costs we would use ANOVA tests as we have multiple independant variables,  size and drive train of the vehicles.  
+The data types we would need for the statistical tests would be a mix of continuous, dichotomous and categorical based on the tests we run.  Preferably on top of the data for MechaCar at least 1 other manufacturer to compare data to,  but if we can test more manufactures we can see how well MechaCar compares.
