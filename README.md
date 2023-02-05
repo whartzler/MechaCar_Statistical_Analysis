@@ -21,16 +21,19 @@
 ![image](https://user-images.githubusercontent.com/109490755/216795647-2d616751-ebcb-4253-bee4-ada400dacd75.png)
 
 ## T-Tests on Suspension Coils
+Based on the below screenshots of each t.test for each individual lot and all lots combined each had varying results.  When we reviewed all lots combined a p-value of 0.06 was calcualted,  based on this we can concluce that there is no significant difference and we can reject our null hypothesis. Lots 1 & 2 also meet this signicance level with Lot 1 having the best p value.  Lot 3 does not meet our criteria with a P-value = 0.042 and the two means are significantly different.   
+
 #### All Manufacturing Lots
 ![image](https://user-images.githubusercontent.com/109490755/216797398-7daaa88d-c805-4cdd-be8f-26968cb7c2ff.png)
-
 #### Lot 1
 ![image](https://user-images.githubusercontent.com/109490755/216797405-e8598175-1834-499e-9ffc-39924d59b3bb.png)
-
 #### Lot 2
 ![image](https://user-images.githubusercontent.com/109490755/216797411-8c5fef3d-7f00-4b30-b112-bbe4d45eb4ea.png)
-
 #### Lot 3
 ![image](https://user-images.githubusercontent.com/109490755/216797424-5e910079-a793-4fac-a50b-0002f9de711a.png)
 
-
+## Study Design: MechaCar vs Competition
+- What Metric(s) to test
+- What is the null hypothesis or alternative hypothesis
+- Statistical Test would you use to test the hypothesis & why
+- Data needed to run the statistical Test
