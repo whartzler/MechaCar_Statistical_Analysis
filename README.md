@@ -1,6 +1,13 @@
 # MechaCar_Statistical_Analysis
 
 ## Overview
+We are working with AutosRU's to review their newest prototype MechaCar.  They have asked us to review the production data for insights that may help the manufacturing team.
+
+## Resources
+MechaCarChallenge.R - R Script that reads and analyzes the datasets
+Suspension_Coil - data set on MechaCar's Suspension data
+MechaCar_mpg - data set on MechaCar and metrics
+
 
 ## Linear Regression to Predict MPG
 - The variables/coefficients that provided a non random amount of variance to the mpg values in the dataset are intercept, vehicle length & ground clearance as they have the smallest Pr(>|t|) values.  The smaller the Pr(>|t|) value the less probability that each coefficient contributes a random amount of variance to the linear model.
