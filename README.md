@@ -28,7 +28,7 @@ MechaCar_mpg - data set on MechaCar and metrics
 ![image](https://user-images.githubusercontent.com/109490755/216795647-2d616751-ebcb-4253-bee4-ada400dacd75.png)
 
 ## T-Tests on Suspension Coils
-Based on the below screenshots of each t.test for each individual lot and all lots combined each had varying results.  When we reviewed all lots combined a p-value of 0.06 was calcualted,  based on this we can concluce that there is no significant difference and we can reject our null hypothesis. Lots 1 & 2 also meet this signicance level with Lot 1 having the best p value.  Lot 3 does not meet our criteria with a P-value = 0.042 and the two means are significantly different.   
+Based on the below screenshots of each t.test for each individual lot and all lots combined each had varying results.  When we reviewed all lots combined a p-value of 0.06 was calculated,  based on this we can concluce that there is no significant difference and we can reject our null hypothesis. Lots 1 & 2 also meet this signicance level with Lot 1 having the best p value.  Lot 3 does not meet our criteria with a P-value = 0.042 and the two means are significantly different.   
 
 #### All Manufacturing Lots
 ![image](https://user-images.githubusercontent.com/109490755/216797398-7daaa88d-c805-4cdd-be8f-26968cb7c2ff.png)
